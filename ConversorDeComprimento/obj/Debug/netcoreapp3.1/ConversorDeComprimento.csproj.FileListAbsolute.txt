@@ -1,0 +1,12 @@
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.exe
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.deps.json
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.runtimeconfig.json
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.runtimeconfig.dev.json
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\bin\Debug\netcoreapp3.1\ConversorDeComprimento.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.csproj.CoreCompileInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.AssemblyInfoInputs.cache
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.AssemblyInfo.cs
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.dll
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.pdb
+C:\Users\Junqueira\Desktop\atividade marlao\ConversorDeComprimento\ConversorDeComprimento\obj\Debug\netcoreapp3.1\ConversorDeComprimento.genruntimeconfig.cache
